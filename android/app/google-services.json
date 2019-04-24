@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973596398542",
+    "firebase_url": "https://ramos-generales.firebaseio.com",
+    "project_id": "ramos-generales",
+    "storage_bucket": "ramos-generales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973596398542:android:c4848604eeaaf7e9",
+        "android_client_info": {
+          "package_name": "com.deramosgenerales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973596398542-sririmrqleb9mk3dggukgohv5kltqsgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deramosgenerales",
+            "certificate_hash": "71a6d9d6f1e237bb886247efbc40062dc3f12384"
+          }
+        },
+        {
+          "client_id": "973596398542-5n60p9t6rqf420qos7tprqmtjo3roob2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhbyB7VdAJDCzEoLJgFMNU4Jg-UTGxrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973596398542-5n60p9t6rqf420qos7tprqmtjo3roob2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
